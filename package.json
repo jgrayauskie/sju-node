@@ -1,0 +1,23 @@
+{
+  "name": "sju-node",
+  "version": "1.0.0",
+  "description": "A repository to demonstrate nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgrayauskie/sju-node.git"
+  },
+  "keywords": [
+    "sju",
+    "node"
+  ],
+  "author": "Joe Grayauskie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgrayauskie/sju-node/issues"
+  },
+  "homepage": "https://github.com/jgrayauskie/sju-node#readme"
+}
